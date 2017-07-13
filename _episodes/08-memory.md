@@ -106,6 +106,13 @@ This metaphor helps explain many observed aspects of expert behavior:
 > and that they therefore must be stupid.
 {: .callout}
 
+> ## A Corollary for Novices
+> 
+> Students generally are _far_ too satisfied to not understand key points
+> and remain confused.  If students remain confused, they are far less likely
+> to adopt our "good enough" practices at the conclusion of the workshop.
+{: .callout}
+
 The graph model of knowledge explains why
 helping learners make connections is as important as introducing them to facts.
 The more people you know in a group,
